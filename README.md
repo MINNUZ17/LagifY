@@ -48,31 +48,14 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-1.
-2.
-3.
-![Screenshot2](Add screenshot 2 here with proper name)  
-*Help page showing OBS Studio, AutoHotkey, and VB-Cable installation instructions.*
+1.https://github.com/MINNUZ17/LagifY/blob/main/index.png
+2.https://github.com/MINNUZ17/LagifY/blob/main/help.png
+3.https://github.com/MINNUZ17/LagifY/blob/main/obs_setup.png
 
-![Screenshot3](Add screenshot 3 here with proper name)  
-*OBS setup page showing virtual camera and hotkey configuration.*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)  
-*Workflow showing audio and video routing from Lagify script through VB-Cable and OBS Virtual Camera.*
-
-### Project Demo
 # Video
-[Add your demo video link here]  
-*Demonstrates how Lagify glitches audio and freezes the webcam during a Google Meet session.*
+https://github.com/MINNUZ17/LagifY/blob/main/lagifydemo.mp4
 
-# Additional Demos
-[Optional additional links or GIFs demonstrating usage]
 
-## Team Contributions
-- Aiswarya P.S: Project Lead, AutoHotkey scripting, website integration  
-- [Name 2]: OBS Studio setup guide, testing, documentation  
-- [Name 3]: VB-Cable configuration, website styling, testing  
 
 ---
 Made with ❤️ at TinkerHub Useless Projects  
